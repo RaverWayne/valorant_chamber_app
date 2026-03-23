@@ -1,0 +1,42 @@
+name: valorant_chamber_app
+description: "A VALORANT Chamber Flutter App"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/chamber_artwork.png
+    - assets/images/chamber_ID_Card.png
+    - assets/images/icon_chamber.png
+    - assets/images/icon_competitive.png
+    - assets/images/icon_headhunter.png
+    - assets/images/icon_rendezvous.png
+    - assets/images/icon_sentinel.png
+    - assets/images/icon_tourdeforce.png
+    - assets/images/icon_trademark.png
+    - assets/images/map_abyss.png
+    - assets/images/map_ascent.png
+    - assets/images/map_bind.png
+    - assets/images/map_breeze.png
+    - assets/images/map_fracture.png
+    - assets/images/map_lotus.png
+    - assets/images/map_sunset.png
+    - assets/images/skin_ayakashi_ghost.png
+    - assets/images/skin_ayakashi_phantom.png
+    - assets/images/skin_forsaken_vandal.png
+    - assets/images/skin_kogitsune_knife.png
+    - assets/images/icon_shishiba.png
